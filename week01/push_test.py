@@ -1,1 +1,0 @@
-print("This is a tesy for push function from git.")
