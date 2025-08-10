@@ -1,0 +1,11 @@
+{
+    "name": "三号存档",
+    "level": 5,
+    "hp": 99.5,
+    "mp": 100,
+    "attack": 10,
+    "defense": 5,
+    "speed": 100000,
+    "is_alive": true,
+    "save_time": "2025-08-10 21:58:01"
+}
